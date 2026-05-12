@@ -1,3 +1,3 @@
 # Updater-mods
 
-where any news for mods is updated
+a place holders for mods updater
