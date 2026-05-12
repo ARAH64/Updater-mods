@@ -1,1 +1,1 @@
-test version check v7.2.9.8 CBT just says hello world
+test version check v7.2.9.8 CBT just says hello miku
