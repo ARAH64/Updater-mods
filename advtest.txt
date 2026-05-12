@@ -1,1 +1,1 @@
-test version check v7.2.9.8 CBT just says hello miku
+test version check v7.2.9.8 CBT just says hello miku and lumine
