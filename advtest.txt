@@ -1,1 +1,1 @@
-test version check v7.2.9.8 CBT just says hello_lumine_and_hello_rover
+test version check_v7.2.9.8 CBT just says hello_lumine_and_hello_rover
