@@ -1,1 +1,1 @@
-test version check v7.2.9.8 CBT just says hello _lumine !@#$%^&*()_
+test version check v7.2.9.8 CBT just says hello_lumine_and_hello_rover
