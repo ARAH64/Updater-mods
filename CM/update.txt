@@ -1,4 +1,9 @@
 2.3
 Cheat Menu New Version Available
-CheatMenu has a new update, hi
+{
+CheatMenu has a new update, here some:
+- now test can be start
+- if it work it works
+- im sure it should
+}
 link
