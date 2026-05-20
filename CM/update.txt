@@ -6,4 +6,4 @@ CheatMenu has a new update, here some:
 - if it work it works
 - im sure it should
 }
-link
+https://github.com/ARAH64/Updater-mods/edit/main/CM/update.txt
