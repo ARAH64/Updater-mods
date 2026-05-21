@@ -1,11 +1,11 @@
 210526
-What is 5 + 5?
-good, you answered it correctly!
-hm, somebody need to learn more!
-3
+Who is Albert Einsten?
+Einsten is proud of you. now you can play
+Einsten very disappointed to you:(
+1
 {
-idk
-maybe 5
-try 10
-well, who's know
+Physicist
+Musician
+Ballerina
+Doctor
 }
