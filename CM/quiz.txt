@@ -1,11 +1,11 @@
 210526
-test question really long, does it wrap around? lets see and hopefully it is but idk but can it wrap around if it over the screen
-Einsten is proud of you. now you can play
+Who is Albert Einsten?
+Einsten is so proud of you. now you can play
 Einsten very disappointed to you:(
 1
 {
 Physicist
 Musician
 Ballerina
-Doctor
+E=mc2
 }
