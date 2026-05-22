@@ -1,9 +1,9 @@
-2.2
+2.4
 Cheat Menu New Version Available
-CheatMenu has a new update, here some:
+CheatMenu has a new update v2.4:
 {
-- now test can be start
-- if it work it works
-- im sure it should
+- Hi members
+- pretty much you alredy know what's new
+- have a nice day
 }
-https://github.com/ARAH64/Updater-mods/edit/main/CM/update.txt
+https://youtu.be/-XhMlKp9HlE
