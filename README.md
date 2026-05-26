@@ -1,3 +1,3 @@
 # Updater-mods
 
-a place holders for mods updater
+a place holder for mods updater
