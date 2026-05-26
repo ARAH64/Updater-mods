@@ -1,12 +1,12 @@
-210526
+270526
 5
-Who is Albert Einsten?
-Einsten is so proud of you. now you can play
-Einsten very disappointed to you:(
-1
+How many planets does our solar system have?
+Good job 
+Even worm can answer it right >:)
+3
 {
-Physicist
-Musician
-Ballerina
-E=mc2
+6
+7
+8
+9
 }
