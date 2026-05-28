@@ -1,1 +1,1 @@
-ARM Advanced Settings _has a new version~v7.2.9.10 CBT~. Added radar range and player pos
+ARM Advanced Settings _the~v7.2.9.11 CBT~will have vertical wanted star and others
