@@ -1,1 +1,1 @@
-ARM Advanced Settings_~v7.2.9.12 CBT~is available to test the Money Change feature
+ARM Advanced Settings_~v7.2.9.13 CBT~WIP on the money display change
