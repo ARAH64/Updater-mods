@@ -1,9 +1,9 @@
-2.2
+2.3
 Cheat Menu New Version Available
-CheatMenu has a new update v2.4:
+CheatMenu has a new update v2.3:
 {
-- Hi members
-- pretty much you alredy know what's new
+- first message
+- second message
 - have a nice day
 }
 Preview/Download the update
