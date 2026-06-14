@@ -1,1 +1,1 @@
-ARM Advanced Settings_~v7.2.9.14 CBT~fixed money change and radio off.
+ARM Advanced Settings_~v7.2.9.15 CBT~fixes for the new apk.
