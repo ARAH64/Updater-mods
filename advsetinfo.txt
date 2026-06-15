@@ -1,1 +1,1 @@
-ARM Advanced Settings_~v7.2.9.15 CBT~fixes for the new apk.
+ARM Advanced Settings_~v7.2.9.16 CBT~will have a new way and option to draw the bar border
