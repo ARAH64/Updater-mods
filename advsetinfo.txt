@@ -1,1 +1,1 @@
-ARM Advanced Settings_~v7.2.9.16 CBT~will have a new way and option to draw the bar border
+ARM Advanced Settings_~v7.2.9.16 CBT~is available with new BorderSide config
