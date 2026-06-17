@@ -1,1 +1,1 @@
-ARM Advanced Settings_~v7.2.9.16 CBT~is available with new BorderSide config
+ARM Advanced Settings_~v7.2.9.17 CBT~will have hot reload config
