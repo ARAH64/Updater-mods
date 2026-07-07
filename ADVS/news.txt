@@ -1,3 +1,3 @@
 v7.4 PBLC
 ARM Advanced Settings 
-has new update v7.4 CBT with fixes and more bugs
+has new update v7.4 CBT with fixes and more bugs and many useless things
