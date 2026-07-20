@@ -1,13 +1,13 @@
-270526
+200726
 5
-How many planets does our solar system have?
-Good job 
-Even worm can answer it right >:)
-3
+Who is Albert Einstein?
+Congratulation, now you can play
+Almost but not close
+4
 {
-6
-7
-8
-9
+My grand grand x 2 Father
+A Scientist
+I heard that name before
+A Physicist
 }
->>Learn about this<<: https://en.wikipedia.org/wiki/Solar_System
+>>Know more of Einstein<<: https://en.wikipedia.org/wiki/Albert_Einstein
