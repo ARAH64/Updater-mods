@@ -1,13 +1,12 @@
-20260720
-5
-Who is Albert Einstein?
-Congratulation, now you can play
-Almost but not close
+20260724
+10
+4 + 4 x (4 + 2) / 8 = 
+Here is your cookie.
+Learn more basic math cutie.
 4
 {
-My grand grand x 2 Father
-A Scientist
-I heard that name before
-A Physicist
+6
+6
+9
+7
 }
->>Know more of Einstein<<: https://en.wikipedia.org/wiki/Albert_Einstein
