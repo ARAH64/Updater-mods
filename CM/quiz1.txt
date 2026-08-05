@@ -4,7 +4,7 @@
 4 + 4 x (4 + 2) / 8 = 
 Here is your cookie.
 Learn more basic math cutie.
-8
+6
 {
 test. 1
 test on. 1
@@ -12,6 +12,4 @@ on test on. 1
 once upon a time. 0
 now it's 5. 0
 oh wow it's 6. 1
-noway. 0
-eight options?. 0
 }
