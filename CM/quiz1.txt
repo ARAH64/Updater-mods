@@ -4,13 +4,11 @@
 4 + 4 x (4 + 2) / 8 = 
 Here is your cookie.
 Learn more basic math cutie.
-6
+4
 {
-test. 1
-test on. 1
-on test on. 1
-once upon a time. 0
-now it's 5. 0
-oh wow it's 6. 1
+6. 0
+6. 0
+9. 0
+7. 1
 }
 Open Me: https://emojidb.org/
