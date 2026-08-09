@@ -1,0 +1,12 @@
+2.22
+1
+Cheat Menu and Virtual Keyboard New Version Available
+CheatMenu & Virtual Keyboard has a new updates:
+{
+- Improved things here and there
+- Added compatibility for crash issue with CLEOMod (32bit)
+- Fixed some known issues
+- Udated virtual keyboard to v0.3
+}
+Preview/Download the updates
+https://youtu.be/nVABJhIf8kQ
