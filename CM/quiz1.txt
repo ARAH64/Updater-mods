@@ -1,6 +1,6 @@
 20260808
 10
-1
+0
 4 + 4 x (4 + 2) / 8 = 
 Here is your cookie.
 Learn more basic math cutie.
