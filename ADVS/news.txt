@@ -1,3 +1,3 @@
-v7.4.5 CBT
+v7.4.6 CBT
 ARM Advanced Settings 
-v7.4.5 CBT featured stamina bar, new config TotalStars and more
+v7.4.6 CBT has new feature. Dynamic HUD elements
