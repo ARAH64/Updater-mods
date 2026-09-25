@@ -1,3 +1,3 @@
-v7.4.6 CBT
+v7.4.7 CBT
 ARM Advanced Settings 
-v7.4.6 CBT has new feature. Dynamic HUD elements
+v7.4.7 CBT - colorable weapon icon, more configuration and fixes
