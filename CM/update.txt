@@ -1,11 +1,11 @@
-2.22
-Cheat Menu and Virtual Keyboard New Version Available
-CheatMenu & Virtual Keyboard has a new updates:
+2.32
+Cheat Menu New Version Available
+CheatMenu has a new updates:
 {
-- Improved things here and there
-- Added compatibility for crash issue with CLEOMod (32bit)
-- Fixed some known issues
-- Udated virtual keyboard to v0.3
+- Timecyc editor
+- Reload handling
+- Freeze time
+- Improved widget responsive
 }
-Preview/Download the updates
-https://youtu.be/nVABJhIf8kQ
+Preview/Download the update
+https://youtu.be/pWPCmHQmx6g
