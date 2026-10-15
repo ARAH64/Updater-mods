@@ -9,3 +9,5 @@ CheatMenu has a new updates:
 }
 Preview/Download the update
 https://youtu.be/pWPCmHQmx6g
+<config>
+1
