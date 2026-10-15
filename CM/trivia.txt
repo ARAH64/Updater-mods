@@ -1,6 +1,5 @@
 20260808
 10
-0
 4 + 4 x (4 + 2) / 8 = 
 Here is your cookie.
 Learn more basic math cutie.
@@ -11,3 +10,5 @@ Learn more basic math cutie.
 9. 0
 7. 1
 }
+<config>
+0
