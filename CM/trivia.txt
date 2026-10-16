@@ -12,5 +12,6 @@ Learn more basic math cutie.
 10. 0
 12. 0
 }
+Learn more?: link
 <config>
 1
