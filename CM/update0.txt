@@ -7,7 +7,5 @@ CheatMenu has a new updates:
 - Freeze time
 - Improved widget responsive
 }
-Preview/Download the update
-https://youtu.be/pWPCmHQmx6g
 <config>
 1
