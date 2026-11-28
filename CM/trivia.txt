@@ -14,4 +14,4 @@ Learn more basic math cutie.
 }
 <config>
 0
-1
+0
